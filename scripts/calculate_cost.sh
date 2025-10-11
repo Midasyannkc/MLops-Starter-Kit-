@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Running production readiness assessment..."
-# Placeholder for readiness logic
+echo "Calculating Total Cost of Ownership..."
+# Placeholder for TCO calculation logic
